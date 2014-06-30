@@ -1,0 +1,1 @@
+C:\VisualStudio\C2C .NET\CourseRegistrationSolution\CourseRegistration\bin\Debug\CourseRegistration.exe.config
